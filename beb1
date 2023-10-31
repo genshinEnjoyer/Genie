@@ -50,3 +50,8 @@ def check_in(message):
 
 bot.polling(none_stop=True, timeout=20)
 
+
+
+
+
+https://t.me/iyava_bot
